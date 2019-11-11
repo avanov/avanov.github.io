@@ -19,3 +19,6 @@ initial-create-master:
 
 publish-changes-master:
 	git subtree push --squash --prefix _site . master
+
+publish-github:
+	git push --all --force
