@@ -1,3 +1,3 @@
 ---
-title: Maxim Avanov
+title: About
 ---
